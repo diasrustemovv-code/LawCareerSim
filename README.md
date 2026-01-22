@@ -8,8 +8,11 @@ A narrative-driven 2D text-based career simulation / visual novel where the play
 - Career ladder: Intern → Lawyer → Senior → Partner → Judge/GC/Founder
 - Realistic legal cases and moral dilemmas (focus: Kazakhstan context as an option)
 
-## Tech (MVP)
-- Engine: Ren'Py (Python)
+Tech (MVP)
+- Engine: Unity (2D)
+- Language: C#
+- UI: Canvas / TextMeshPro
+
 
 ## Roadmap (MVP)
 - [ ] Prologue (final-year student)
